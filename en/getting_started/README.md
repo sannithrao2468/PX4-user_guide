@@ -16,4 +16,4 @@ This section provides an overview of the basic concepts you need to understand i
 
 [Payloads & Cameras](../payloads/README.md)
 
-[Flight Reporting](../getting_started/flight_reporting.md) — Download detailed flight logs for debugging and analysis.
+[Flight Reporting](../getting_started/flight_reporting.md) — Download detailed flight logs for debugging and analysis.Buhahaha
